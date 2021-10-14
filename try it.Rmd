@@ -1,0 +1,13 @@
+---
+title: "try it"
+author: "Siyi Li"
+date: "14/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+i just wanna try usethis function 
